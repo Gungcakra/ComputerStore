@@ -1,4 +1,3 @@
-
 # Computer Stores
 # Description
 Computer Stores is an e-commerce website that sells computer essentials such as keyboards, mice, headsets, and more. This website was developed as part of an internship project at PT Hooki Global Kreasi, and it was built by a team of three using Laravel and Bootstrap to provide a robust and responsive shopping experience.
