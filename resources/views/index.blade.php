@@ -36,7 +36,7 @@
                     <a href="#featured" class="btn">Explore Now! &#8594;</a>
                 </div>
                 <div class="col-2">
-                    <img src="{{ asset('img/index/image1.png') }}">
+                    <img src="{{ asset('img/index/exclusive.png') }}">
                 </div>
             </div>
         </div>

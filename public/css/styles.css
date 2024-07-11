@@ -348,7 +348,7 @@ ul {
 
 .menu-icon {
     width: 28px;
-    margin-left: 20px;
+    margin-left: 5px;
     display: none;
 }
 
@@ -358,7 +358,7 @@ ul {
         position: absolute;
         top: 70px;
         left: 0;
-        background: #FF8AAE;
+        background: #000000;
         width: 100%;
         overflow: hidden;
         transition: max-height 0.5s;
